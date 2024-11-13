@@ -1,7 +1,7 @@
 {
   "name": "com.unity.webrtc-ubiq-fork",
   "displayName": "WebRTC (Ubiq Fork)",
-  "version": "3.0.0-pre.7",
+  "version": "3.0.1-pre.7",
   "unity": "2020.3",
   "description": "This is a fork of com.unity.webrtc(v3.0.0-pre.7) which fixes the Vulkan compatibility issue with the Oculus/OpenXR SDK. Original package by Unity. Original readme: The WebRTC package provides browsers and mobile applications with Real-Time Communications (RTC) capabilities.",
   "keywords": [
