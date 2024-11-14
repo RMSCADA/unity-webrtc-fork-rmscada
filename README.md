@@ -1,6 +1,6 @@
 # MODIFIED VERSION
 
-This is a modified version of com.unity.webrtc with Android startup Vulkan hooks removed. Temporary fix for incompatibility between com.unity.webrtc and oculus SDK.
+This is a modified version of [com.unity.webrtc](https://github.com/Unity-Technologies/com.unity.webrtc) which fixes the Vulkan compatibility issue with the Oculus/OpenXR SDK. Also includes additional fixes from the repository owned by [kannan-xiao4](https://github.com/kannan-xiao4/com.unity.webrtc).
 
 Original readme follows.
 
