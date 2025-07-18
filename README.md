@@ -1,8 +1,11 @@
 # MODIFIED VERSION
+This is a modified version of [unity-webrtc-ubiq-fork](https://github.com/UCL-VR/unity-webrtc-ubiq-fork). It is addapted so that it can be installed manually to replace the com.unity.webrtc package that uses [SimpleWebRTC](https://github.com/FireDragonGameStudio/SimpleWebRTC) in [QuestCameraKit](https://github.com/xrdevrob/QuestCameraKit).
+
+Original readme os previous fork follows.
+# MODIFIED README OF PREVIOUS FORK
 
 This is a modified version of [com.unity.webrtc](https://github.com/Unity-Technologies/com.unity.webrtc) which fixes the Vulkan compatibility issue with the Oculus/OpenXR SDK. Also includes additional fixes from the repository owned by [kannan-xiao4](https://github.com/kannan-xiao4/com.unity.webrtc).
 
-Original readme follows.
 
 ---
 
