@@ -1,10 +1,12 @@
+
+
 Original version of this library: 
-   com.unity.webrtc copyright © 2022 Unity Technologies ApS
+   com-unity-webrtc-ubiq-fork copyright © 2024 VECG group, University College London
 
 Modifications: 
-   Runtime/Plugins/Android/libwebrtc.aar replaced with a version 
-   that does not hook into Vulkan, copyright 2024 VECG group, 
-   University College London
+   Modified README, LICENSE's modification lists and file package.json to
+   work out of the box with other packages made with original
+   com.unity.webrtc.
 
 License:
    Licensed under the Apache License, Version 2.0 (the "License");
