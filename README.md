@@ -1,5 +1,5 @@
 # MODIFIED VERSION
-This is a modified version of [unity-webrtc-ubiq-fork](https://github.com/UCL-VR/unity-webrtc-ubiq-fork). It is addapted so that it can be installed manually to replace the com.unity.webrtc package that uses [SimpleWebRTC](https://github.com/FireDragonGameStudio/SimpleWebRTC) in [QuestCameraKit](https://github.com/xrdevrob/QuestCameraKit).
+This is a modified version of [unity-webrtc-ubiq-fork](https://github.com/UCL-VR/unity-webrtc-ubiq-fork). It is addapted so that it can be installed manually to replace the com.unity.webrtc package used by [SimpleWebRTC](https://github.com/FireDragonGameStudio/SimpleWebRTC) in [QuestCameraKit](https://github.com/xrdevrob/QuestCameraKit).
 
 Original readme os previous fork follows.
 # MODIFIED README OF PREVIOUS FORK
